@@ -2,7 +2,7 @@
 
 <h2>👨🏿‍💻Cyber Security Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/cyberlocs/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/cyberlocs/ActiveDirectoryLab/blob/main/README.md)
   - [Hello World](https://github.com/cyberlocs/Algorithms-Practice)
 <h2>📃Certifications</h2>
 
