@@ -4,6 +4,7 @@
 
   - [Active Directory Homelab](https://github.com/cyberlocs/ActiveDirectoryLab/blob/main/README.md)
   - [Hello World](https://github.com/cyberlocs/Algorithms-Practice)
+  - [Quiz Game](https://github.com/cyberlocs/My-Quiz-Game)
 <h2>📃Certifications</h2>
 
 - [Introduction to Cyber Security](https://simpli-web.app.link/e/Tnwlkqu5jrb)
