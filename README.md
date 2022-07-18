@@ -8,6 +8,7 @@
 <h2>📃Certifications</h2>
 
 - [Introduction to Cyber Security](https://simpli-web.app.link/e/Tnwlkqu5jrb)
+- [CISSP- Certified Information Systems Security Prosfessional](https://simpli-web.app.link/e/eFaNE5z5Lrb)
 
 
 <h2> 🤳🏾 Connect with me:</h2>
